@@ -13,8 +13,8 @@ Build a full stack Threads clone using Next.js 14+ with a redesigned look transf
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
-- MongoDB
 - Shadcn UI
+- MongoDB
 - TailwindCSS
 - Clerk
 - Webhooks

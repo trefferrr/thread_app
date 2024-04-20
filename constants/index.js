@@ -4,6 +4,7 @@ export const sidebarLinks = [
     route: "/",
     label: "Home",
   },
+  /*s8*/
   {
     imgURL: "/assets/search.svg",
     route: "/search",
